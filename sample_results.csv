@@ -1,0 +1,43 @@
+StudentID,StudentName,CourseCode,Marks,Grade
+ST1001,Aarav Sharma,CS301,94,S
+ST1002,Diya Patel,CS301,88,A
+ST1003,Rohan Verma,CS301,76,B
+ST1004,Ananya Iyer,CS301,65,C
+ST1005,Vikram Malhotra,CS301,54,D
+ST1006,Neha Gupta,CS301,45,E
+ST1007,Kabir Mehta,CS301,32,F
+ST1008,Pooja Nair,CS301,91,S
+ST1009,Aditya Rao,CS301,83,A
+ST1010,Ishita Sen,CS301,82,A
+ST1011,Karan Joshi,CS301,74,B
+ST1012,Sneha Kulkarni,CS301,78,B
+ST1013,Rahul Nambiar,CS301,61,C
+ST1014,Tanvi Deshmukh,CS301,68,C
+ST1015,Manish Pandey,CS301,52,D
+ST1016,Riya Chatterjee,CS301,58,D
+ST1017,Siddharth Das,CS301,41,E
+ST1018,Meera Pillai,CS301,38,F
+ST1019,Gaurav Bansal,CS301,96,S
+ST1020,Shruti Bhatt,CS301,85,A
+ST1021,Varun Kapoor,CS301,87,A
+ST1022,Simran Kaur,CS301,71,B
+ST1023,Akash Ghosh,CS301,79,B
+ST1024,Pragya Saxena,CS301,63,C
+ST1025,Naveen Reddy,CS301,57,D
+ST1026,Deepika Jain,CS301,48,E
+ST1027,Harsh Vardhan,CS301,29,F
+ST1028,Swati Mishra,CS301,92,S
+ST1029,Nikhil Chopra,CS301,84,A
+ST1030,Kavita Singhania,CS301,73,B
+ST1031,Arjun Sundaram,CS301,69,C
+ST1032,Bhavna Choudhary,CS301,50,D
+ST1033,Kunal Trivedi,CS301,44,E
+ST1034,Alok Mathur,CS301,35,F
+ST1035,Sanjana Hegde,CS301,98,S
+ST1036,Tarun Agarwal,CS301,81,A
+ST1037,Vidya Menon,CS301,77,B
+ST1038,Chetan Sethi,CS301,64,C
+ST1039,Pallavi Roy,CS301,53,D
+ST1040,Devansh Goyal,CS301,40,E
+ST1041,INVALID_STUDENT,CS301,999,X
+ST1042,MISSING_GRADE_ROW,CS301,,
